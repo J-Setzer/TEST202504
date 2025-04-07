@@ -2,6 +2,9 @@
 
 namespace Rexfordnyrk\Tempconv;
 
+// this is just a test, copied from 
+// https://kinsta.com/blog/create-composer-package/
+
 class TemperatureConverter
 {
     //Caller must provide the temperature value and the unit either C Celsius or F Fahrenheit
