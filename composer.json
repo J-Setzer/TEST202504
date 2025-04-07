@@ -1,0 +1,13 @@
+{
+    "name": "bizzworxx/test202504",
+    "description": "Just a packagist/composer test repo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bizzworxx.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
